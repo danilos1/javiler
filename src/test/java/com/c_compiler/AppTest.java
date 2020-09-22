@@ -1,4 +1,4 @@
-package com.javiler;
+package com.c_compiler;
 
 import static org.junit.Assert.assertTrue;
 
