@@ -1,4 +1,4 @@
-package com.c_compiler;
+package com.py_compiler;
 
 /**
  * Hello world!
